@@ -12,3 +12,4 @@ Idei principale:
 - Utilizatorul va putea plasa o comanda care sa cuprinda produse si cantitatea lor, iar programul va determina pretul luand in calcul ofertele si promotiile disponibile si le va printa intr-un mod sugestiv
 - Programul va determina validitatea comenzii respective(daca produsul respectiv exista, daca exista destule exemplare, etc...)
 - Intr-un fisier vor fi salvate diverse statistici legate de popularitatea produselor
+- Optiuni diferite pt user si admini
